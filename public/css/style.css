@@ -1,0 +1,82 @@
+.avatar{
+    margin-bottom: 15px;
+    width:55px;
+}
+
+
+.navbar .container_avatar,
+.pub-image .container_avatar{
+    width:35px;
+    height: 35px;
+    border-radius: 900px;
+    overflow: hidden;
+    margin-left: 20px;
+}
+
+.navbar .container_avatar img,
+.pub-image .container_avatar img{
+    height: 100%;
+}
+
+.pub-image{
+    margin-bottom:25px ;
+}
+
+.pub-image .container_avatar{
+    float: left;
+    margin-right: 15px;
+}
+
+.pub-image .data-user {
+    font-weight: bold;
+    line-height: 35px;
+}
+
+.pub-image .data-user a {
+    color:4444;
+}
+
+.pub-image .nickname {
+   color:gray;
+}
+
+.image-container{
+    width: 100%;
+    max-height: 400px;
+    overflow: hidden;
+}
+
+.image-detail{
+    max-height: 500px;
+}
+
+.image-container img{
+    width: 100%;
+}
+.pub-image .card-body{
+    padding: 0px;
+}
+
+.pub-image .description{
+    padding: 20px;
+    padding-bottom: 0px;
+}
+
+.pub-image .btn-comments{
+    margin: 20px;
+    margin-top: 0px;
+}
+
+.likes{
+    float:left;
+    padding-left: 20px;
+    padding-right: 10px;
+}
+
+.likes img{
+    width: 25px;
+}
+
+.pub-image-detail .comments {
+    padding: 20px;
+}
